@@ -29,7 +29,7 @@ namespace discord
             while (true)
             {
                 text = Console.ReadLine();
-                discord.Say(text);
+                discord.Say(instert text here);
             }
         }
     }
